@@ -27,8 +27,8 @@
 # print (x2)
 # print (x3)
 
-x1 = x2 = 80
+# x1 = x2 = 80
 
-x1 &= 3
+# x1 &= 3
 
-print (x1)
+# print (x1)
